@@ -30,7 +30,7 @@ This React application generates random passwords based on user-defined criteria
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
-4. Run the app using `npm start`.
+4. Run the app using `npm run dev`.
 
 ## Example Usage
 
@@ -38,7 +38,3 @@ This React application generates random passwords based on user-defined criteria
 2. Toggle the "Numbers" and "Character" checkboxes based on the required password complexity.
 3. The generated password will be displayed in the input field.
 4. Click the "Copy" button to copy the password to the clipboard.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
